@@ -75,7 +75,7 @@ A data-driven exploration and visualization project that analyzes 78,000+ bank l
 ## 📫 Connect With Me
 
 I'm open to opportunities in data analytics, business intelligence, and data storytelling.  
-Let’s connect on [LinkedIn](www.linkedin.com/in/harshal-pednekar-b59ba132b) or check out my other work in the pinned repositories!
+Let’s connect on [LinkedIn Profile](https://www.linkedin.com/in/harshal-pednekar-b59ba132b) or check out my other work in the pinned repositories!
 
 ---
 
