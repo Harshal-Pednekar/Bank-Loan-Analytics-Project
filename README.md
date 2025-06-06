@@ -68,7 +68,7 @@ A data-driven exploration and visualization project that analyzes 78,000+ bank l
 
 ## 🖼️ Dashboard Preview
 
-> 📷 *Visuals and dashboard screenshots can be found in the `preview-images/` [preview-images/] folder.*
+> 📷 *Visuals and dashboard screenshots can be found in the [preview-images/](preview-images/) fold folder.*
 
 ---
 
