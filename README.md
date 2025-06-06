@@ -29,7 +29,7 @@ A data-driven exploration and visualization project that analyzes 78,000+ bank l
 - 🔍 **Data Understanding**: Schema & attribute identification  
 - 🧼 **Data Cleaning**: Removed nulls, duplicates, reformatted dates, unified categories  
 - 🧱 **Data Modeling**: Structured using Power Query, Pivot Tables, SQL joins  
-- 📊 **Data Visualization**: Developed dashboards in Power BI and Tableau  
+- 📊 **Data Visualization**: Developed dashboards in Power BI, Excel and Tableau  
 - 🎛️ **Final Dashboard**: Interactive with slicers, filters, KPIs, maps & trend charts  
 
 ---
